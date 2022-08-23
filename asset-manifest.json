@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Custom-Hooks-prectis/static/css/main.1c96b845.css",
+    "main.js": "/Custom-Hooks-prectis/static/js/main.48b684ad.js",
+    "index.html": "/Custom-Hooks-prectis/index.html",
+    "main.1c96b845.css.map": "/Custom-Hooks-prectis/static/css/main.1c96b845.css.map",
+    "main.48b684ad.js.map": "/Custom-Hooks-prectis/static/js/main.48b684ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c96b845.css",
+    "static/js/main.48b684ad.js"
+  ]
+}
