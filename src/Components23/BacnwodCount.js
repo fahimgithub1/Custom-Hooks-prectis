@@ -1,4 +1,4 @@
-import useCount from "./Hook/use-count";
+import useCount from "../Hook/use-count";
 
 function Baccounter() {
   const counter = useCount(false);
